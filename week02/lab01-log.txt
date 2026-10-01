@@ -1,0 +1,82 @@
+    1  python 3.14.x
+    2  python 3.14.6
+    3  python3
+    4  --version
+    5  echo $SHELL
+    6  pwd
+    7  ls
+    8  ls -a
+    9  ls -l
+   10  mkdir coding-cafe
+   11  ls
+   12  pwd
+   13  mkdir/home/ravi/coding-cafe/week01
+   14  ls
+   15  mkdir /home/ravi/coding-cafe/week01
+   16  ls
+   17  mkdir /home/ravi/coding-cafe/week02
+   18  ls
+   19  cd coding-cafe
+   20  ls
+   21  touch README.md
+   22  ls
+   23  ls -l
+   24  cd week02
+   25  touch notes.md
+   26  ls
+   27  pwd
+   28  ls
+   29  ls -a
+   30  ls -l
+   31  README.md README-backup.md
+   32  cd coding-cafe
+   33  README-backup.md week01/
+   34  mv README-backup.md week01/
+   35  mv README-backup.md weeko1
+   36  pdw
+   37  pwd
+   38  ls coding-cafe/week02
+   39  mv README-backup.md week01/
+   40  ls -R coding-cafe
+   41  mv README-backup.md week01/
+   42  cd ~
+   43  ls coding-cafe/week02
+   44  ls -R coding-cafe
+   45  mv README-backup.md week 01/
+   46  mv README-backup.md week01/
+   47  cd coding-cafe
+   48  cp README.md README-backup.md
+   49  mv README-backup.md week01/
+   50  cd week01
+   51  mv README-backup.md old-readme.md
+   52  ls
+   53  rm old-readme.md
+   54  echo $PATH
+   55  which python3
+   56  which pip
+   57  which ls
+   58  pyton3
+   59  cd ~/coding-cafe
+   60  python3 -m venv .venv
+   61  apt install python3.14-venv
+   62  sudo apt update && sudo apt install -y python3-venv python3.14-venv
+   63  python3 -m venv .venv
+   64  ls
+   65  ls -a
+   66  source .venv/bin/activate
+   67  which python3
+   68  pip list
+   69  pip install requests
+   70  pip list
+   71  deactivate
+   72  which python3
+   73  man ls
+   74  ls -h
+   75  man man
+   76  cd cod
+   77  cd ~
+   78  cd coding-cafe/
+   79  man man
+   80  history
+   81  python3
+   82  history > week02/lab01-log.txt
